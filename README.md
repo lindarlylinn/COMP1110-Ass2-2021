@@ -1,6 +1,6 @@
 # <span style="color:red">Before you start: </span>
 ## <span style="color:red">Please pledge academic rules. </span>
-## <span style="color:red"> DO *NOT* copy code from this part. </span>
+## <span style="color:red"> DO *NOT* copy code directly from this repo. </span>
 ## <span style="color:red"> REFERENCE before you use. </span>
 
 ---
